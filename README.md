@@ -1,4 +1,4 @@
-**Aplicativo de Afirmações**
+**Aplicativo de Lista Rolável**
 ----------------------------
 
 Um aplicativo Android simples e elegante desenvolvido em Kotlin com Jetpack Compose, apresentando uma lista rolável com 10 cartões de afirmações inspiradoras.
