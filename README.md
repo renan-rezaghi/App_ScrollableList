@@ -34,4 +34,5 @@ Compile e execute o aplicativo em um emulador ou dispositivo físico.
 
 **Prévia do Aplicativo**
 ------------------------
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d6ba4a8b-e2a7-4cd0-828a-9df802815309" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1f400961-826e-4d57-9132-60151d1a59aa" />
+
