@@ -1,26 +1,29 @@
-Affirmations App - Intermediate Code
-================================
+*Aplicativo de Afirmações*
 
-Intermediate code for the Android Basics with Compose: Affirmations app.
+Um aplicativo Android simples e elegante desenvolvido em Kotlin com Jetpack Compose, apresentando uma lista rolável com 10 cartões de afirmações inspiradoras.
 
+Sobre o Projeto
 
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
+Este projeto demonstra como criar interfaces modernas no Android utilizando Jetpack Compose, explorando listas, componentes reutilizáveis e uma estrutura de layout limpa e organizada.
 
+*Pré-requisitos*
 
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
+Conhecimento básico em Kotlin
 
+Familiaridade com listas (LazyColumn) no Jetpack Compose
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Saber executar aplicativos em um emulador ou dispositivo físico
 
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+*Como Executar*
+
+Instale o Android Studio (de preferência a versão mais recente).
+
+Clone ou baixe este repositório.
+
+Abra o projeto no Android Studio.
+
+Compile e execute o aplicativo em um emulador ou dispositivo físico.
+
+*Prévia do Aplicativo*
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d6ba4a8b-e2a7-4cd0-828a-9df802815309" />
